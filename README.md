@@ -5,7 +5,7 @@ A clean, modular, and fully anonymized **academic CV template** written in **Typ
 ## Preview
 
 👉 **Live preview:**  
-[View the rendered CV](./site/index.html)
+[View the rendered CV (PDF)](./site/cv.pdf)
 
 ## Features
 - Fully anonymized placeholders (no personal data)
