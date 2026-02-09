@@ -4,8 +4,8 @@ A clean, modular, and fully anonymized **academic CV template** written in **Typ
 
 ## Preview
 
-👉 **Live preview:**  
-[View the rendered CV (HTML)](./site/index.html)
+👉 **Live preview:**   
+[View the rendered CV](https://guanglan1118.github.io/CV-template/)
 
 ## Features
 - Fully anonymized placeholders (no personal data)
